@@ -3,3 +3,13 @@
 git init
 git add . (or we can use 'main')
 
+git config --global user.email "your_email"
+git config --global user.name "your_username"
+
+add the command from github to link repo
+
+git commit -m "message"
+
+git push (this will not run correctly and suggest another command)
+
+Run the command shown in terminal.
