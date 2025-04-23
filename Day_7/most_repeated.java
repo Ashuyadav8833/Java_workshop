@@ -1,8 +1,8 @@
-class duplicate_remove {
+class most_repeated {
     public static void main(String[] args) {
         String str = "helolooo";
         char[] arr = str.toCharArray();
-        int prev = 0, next = 0, ans = -1;
+        int prev = 0, next, ans = -1;
 
         for (int i = 0; i < arr.length; i++) {
             next = 0;
