@@ -3,7 +3,7 @@ class unique_elements {
         int arr1[] = {1,2,3,4,5};
         int arr2[] = {3,9,8,2};
 
-        boolean unique = true;
+        boolean unique;
 
         for (int i = 0; i < arr1.length; i++) {
             unique = true;
