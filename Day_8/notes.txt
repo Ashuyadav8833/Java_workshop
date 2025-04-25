@@ -1,0 +1,2 @@
+string is mutable but not "StringBuilder".
+It is mutable and can be proved by 'append' function.
