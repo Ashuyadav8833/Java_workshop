@@ -1,6 +1,6 @@
 class string_sort {
     public static void main(String[] args) {
-        String str[] = {"BE","A","C","D"};
+        String str[] = {"BEZ","A","C","D"};
         int mainlength = 0;
 
         for (int i = 0; i < str.length; i++) {
