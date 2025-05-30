@@ -18,10 +18,6 @@ public class iterator_basics {
         while (it.hasNext()) {
             String data = it.next();
             System.out.println(data);
-
-            if (data.length() < 3) {
-                it.
-            }
         }
 
         // while (it.hasPrevious()) {
