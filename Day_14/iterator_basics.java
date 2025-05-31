@@ -20,9 +20,9 @@ public class iterator_basics {
             System.out.println(data);
         }
 
-        // while (it.hasPrevious()) {
-        //     String data = it.previous();
-        //     System.out.println(data);
-        // }
+        while (it.hasPrevious()) {
+            String data = it.previous();
+            System.out.println(data);
+        }
     }
 }
