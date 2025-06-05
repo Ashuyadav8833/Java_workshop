@@ -1,7 +1,7 @@
 
 public class thread_again {
     public static void main(String[] args) {
-        System.out.println("Pehle me....");
+        System.out.println("Baatein....");
 
         Thread pehlaThread = new Thread(()->{
             System.out.println("Aur Sunao !");
